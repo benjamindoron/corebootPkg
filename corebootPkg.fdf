@@ -151,7 +151,7 @@ INF  DuetPkg/PciBusNoEnumerationDxe/PciBusNoEnumeration.inf
 INF  PcAtChipsetPkg/PciHostBridgeDxe/PciHostBridgeDxe.inf
 INF  MdeModulePkg/Bus/Pci/PciBusDxe/PciBusDxe.inf
 !endif
-INF  PcAtChipsetPkg/KbcResetDxe/Reset.inf
+INF  PcAtChipsetPkg/Library/ResetSystemLib/ResetSystemLib.inf
 INF  MdeModulePkg/Universal/Metronome/Metronome.inf
 INF  PcAtChipsetPkg/PcatRealTimeClockRuntimeDxe/PcatRealTimeClockRuntimeDxe.inf
 
